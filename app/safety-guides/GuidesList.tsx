@@ -38,7 +38,7 @@ export default function GuidesList({ selectedCategory }: GuidesListProps) {
       readTime: 12,
       lastUpdated: '2024-12-15',
       source: 'PAGASA & NDRRMC',
-      coverImage: 'https://readdy.ai/api/search-image?query=Filipino%20family%20preparing%20for%20typhoon%20with%20emergency%20supplies%2C%20boarding%20up%20windows%2C%20securing%20outdoor%20items%2C%20storm%20preparation%20scene%20with%20safety%20equipment%20and%20protective%20measures&width=400&height=250&seq=typhoon_prep1&orientation=landscape',
+      coverImage: 'https://www.thetrumpet.com/files/W1siZiIsIjIwMjAvMTEvMTkvMmd0czhnM2U5ZV8yMDExMTlfTWFuaWxhX1R5cGhvb25fR2V0dHlJbWFnZXNfMTIyOTU4NTI1OC5qcGciXSxbInAiLCJ0aHVtYiIsIjIwNDh4MjA0OD4iXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4MCJdXQ/9e4288dcb32a857e/201119-Manila%20Typhoon-GettyImages-1229585258.jpg.jpg',
       steps: [
         {
           title: 'Monitor Weather Updates',
@@ -83,7 +83,7 @@ export default function GuidesList({ selectedCategory }: GuidesListProps) {
       readTime: 8,
       lastUpdated: '2024-12-14',
       source: 'PHIVOLCS & NDRRMC',
-      coverImage: 'https://readdy.ai/api/search-image?query=Earthquake%20safety%20demonstration%20showing%20people%20practicing%20drop%20cover%20hold%20on%20technique%2C%20earthquake%20preparedness%20training%20in%20Philippine%20setting%20with%20safety%20instructors%20and%20participants&width=400&height=250&seq=earthquake_prep1&orientation=landscape',
+      coverImage: 'https://www.hstoday.us/wp-content/uploads/2019/10/1000w_q95-2019-10-17T003717.741.jpg',
       steps: [
         {
           title: 'During Shaking: Drop',
@@ -128,7 +128,7 @@ export default function GuidesList({ selectedCategory }: GuidesListProps) {
       readTime: 10,
       lastUpdated: '2024-12-13',
       source: 'MMDA & Local LGUs',
-      coverImage: 'https://readdy.ai/api/search-image?query=Flood%20emergency%20response%20showing%20rescue%20personnel%20helping%20evacuate%20families%20from%20flooded%20area%2C%20emergency%20boats%20and%20safety%20equipment%2C%20Filipino%20rescue%20workers%20in%20action%20during%20flood%20disaster&width=400&height=250&seq=flood_prep1&orientation=landscape',
+      coverImage: 'https://files01.pna.gov.ph/category-list/2024/07/26/fbimg1721981987241.jpg',
       steps: [
         {
           title: 'Monitor Flood Warnings',
@@ -173,7 +173,7 @@ export default function GuidesList({ selectedCategory }: GuidesListProps) {
       readTime: 9,
       lastUpdated: '2024-12-12',
       source: 'Bureau of Fire Protection',
-      coverImage: 'https://readdy.ai/api/search-image?query=Fire%20safety%20demonstration%20with%20Filipino%20family%20practicing%20escape%20routes%2C%20fire%20extinguisher%20training%2C%20home%20fire%20safety%20equipment%20including%20smoke%20detectors%20and%20fire%20blankets%2C%20professional%20safety%20training%20scene&width=400&height=250&seq=fire_prep1&orientation=landscape',
+      coverImage: 'https://aipsafety.com/wp-content/uploads/2021/01/Fire-safety-training-for-employees.jpg',
       steps: [
         {
           title: 'Install Smoke Detectors',
@@ -218,7 +218,7 @@ export default function GuidesList({ selectedCategory }: GuidesListProps) {
       readTime: 11,
       lastUpdated: '2024-12-11',
       source: 'PHIVOLCS',
-      coverImage: 'https://readdy.ai/api/search-image?query=Volcanic%20eruption%20preparedness%20showing%20people%20wearing%20masks%20and%20protective%20gear%2C%20volcanic%20ash%20safety%20equipment%2C%20emergency%20supplies%20for%20volcano%20evacuation%2C%20Philippine%20volcanic%20safety%20measures&width=400&height=250&seq=volcano_prep1&orientation=landscape',
+      coverImage: 'https://volcano.si.edu/images/bulletin/273030/273030_BGVN_030.jpg',
       steps: [
         {
           title: 'Know Alert Levels',
@@ -263,7 +263,7 @@ export default function GuidesList({ selectedCategory }: GuidesListProps) {
       readTime: 15,
       lastUpdated: '2024-12-10',
       source: 'Philippine Red Cross',
-      coverImage: 'https://readdy.ai/api/search-image?query=Complete%20emergency%20kit%20display%20with%20organized%20supplies%20including%20water%2C%20food%2C%20first%20aid%2C%20flashlight%2C%20radio%2C%20batteries%2C%20and%20documents%2C%20professional%20emergency%20preparedness%20setup%20for%20Filipino%20families&width=400&height=250&seq=kit_prep1&orientation=landscape',
+      coverImage: 'https://actionagainsthunger.ph/wp-content/uploads/2021/02/AAH2-1-1030x684.jpg',
       steps: [
         {
           title: 'Water Storage',
